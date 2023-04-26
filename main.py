@@ -9,7 +9,7 @@ img_hirotaka =Image.open("cat3.jpg")
 
 with st.container():
     st.title("Shelter the cat!:cat:")
-    st.text("A group of enthusiasts from Kostroma wants to reduce the number of unfortunate seals!")
+    st.text("A group of enthusiasts from Kostroma wants to reduce the number of homeless cats!")
     st.write("[Join us!](http://16.cshse.beget.tech/cat/3)")
 
 with st.container():
